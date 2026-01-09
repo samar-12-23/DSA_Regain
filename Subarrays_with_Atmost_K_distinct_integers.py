@@ -1,6 +1,6 @@
 #GFG #Problem of the day
 
-#Approach used :- sliding window with usage of map 
+#Approach used :- sliding window with usage of map (Optimised solution)
 # Time complexity -> O(N)
 # Space complexity -> O(K)
 
